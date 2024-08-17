@@ -18,6 +18,7 @@ team_map = {
     "LV": "Las Vegas Raiders",
     "LAC": "Los Angeles Chargers",
     "LA": "Los Angeles Rams",
+    "LAR": "Los Angeles Rams",
     "MIA": "Miami Dolphins",
     "MIN": "Minnesota Vikings",
     "NE": "New England Patriots",
@@ -30,5 +31,5 @@ team_map = {
     "SF": "San Francisco 49ers",
     "TB": "Tampa Bay Buccaneers",
     "TEN": "Tennessee Titans",
-    "WAS": "Washington Football Team"
+    "WAS": "Washington Commanders"
 }

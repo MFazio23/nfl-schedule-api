@@ -5,7 +5,7 @@ from flask import jsonify
 import csv
 
 min_year = 1999
-max_year = 2021
+max_year = 2024
 
 
 def get_schedule_http(request):
@@ -38,14 +38,25 @@ def get_input_params(request, field, default=None):
 def get_schedule_for_year(year: int):
     current_year_games = []
 
-    with open('nfl-1999-2021-schedule.csv', mode='r') as csvfile:
-        schedule_csv = csv.DictReader(csvfile)
-        line_num = 0
-        for game in schedule_csv:
-            if line_num > 0 and int(game['season']) == year:
-                current_year_games.append(game)
+    if year == 2023 or year == 2024:
+        file = f'nfl-schedule-{year}.csv'
+        with open(file, mode='r') as csvfile:
+            schedule_csv = csv.DictReader(csvfile)
+            line_num = 0
+            for game in schedule_csv:
+                if int(game['season']) == year:
+                    current_year_games.append(game)
 
-            line_num += 1
+                line_num += 1
+    else:
+        with open('nfl-1999-2022-schedule.csv', mode='r') as csvfile:
+            schedule_csv = csv.DictReader(csvfile)
+            line_num = 0
+            for game in schedule_csv:
+                if line_num > 0 and int(game['season']) == year:
+                    current_year_games.append(game)
+
+                line_num += 1
 
     return current_year_games
 
@@ -57,12 +68,14 @@ def get_basic_schedule(schedule: list):
         week = game['week']
         if week not in grouped_games:
             grouped_games[week] = []
-        grouped_games[week].append(
-            {
-                'gameId': game['espn'],
-                'homeTeam': team_map[game['home_team']],
-                'awayTeam': team_map[game['away_team']],
-            }
-        )
+        game_id = game.get('espn', game.get('game_id'))
+        if game_id:
+            grouped_games[week].append(
+                {
+                    'gameId': game_id,
+                    'homeTeam': team_map[game['home_team']],
+                    'awayTeam': team_map[game['away_team']],
+                }
+            )
 
     return grouped_games

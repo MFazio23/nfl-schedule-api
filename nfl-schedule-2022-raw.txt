@@ -1,0 +1,308 @@
+Week 1
+Date	Time (ET)	Away Team	Home Team
+Thu Sep 8	8:20 PM	Buffalo Bills	Los Angeles Rams
+Sun Sep 11	1:00 PM	Baltimore Ravens	New York Jets
+Sun Sep 11	1:00 PM	Cleveland Browns	Carolina Panthers
+Sun Sep 11	1:00 PM	Indianapolis Colts	Houston Texans
+Sun Sep 11	1:00 PM	Jacksonville Jaguars	Washington Commanders
+Sun Sep 11	1:00 PM	New England Patriots	Miami Dolphins
+Sun Sep 11	1:00 PM	New Orleans Saints	Atlanta Falcons
+Sun Sep 11	1:00 PM	Philadelphia Eagles	Detroit Lions
+Sun Sep 11	1:00 PM	Pittsburgh Steelers	Cincinnati Bengals
+Sun Sep 11	1:00 PM	San Francisco 49ers	Chicago Bears
+Sun Sep 11	4:25 PM	Green Bay Packers	Minnesota Vikings
+Sun Sep 11	4:25 PM	Kansas City Chiefs	Arizona Cardinals
+Sun Sep 11	4:25 PM	Las Vegas Raiders	Los Angeles Chargers
+Sun Sep 11	4:25 PM	New York Giants	Tennessee Titans
+Sun Sep 11	8:20 PM	Tampa Bay Buccaneers	Dallas Cowboys
+Mon Sep 12	8:15 PM	Denver Broncos	Seattle Seahawks
+Week 2
+Date	Time (ET)	Away Team	Home Team
+Thu Sep 15	8:15 PM	Los Angeles Chargers	Kansas City Chiefs
+Sun Sep 18	1:00 PM	Carolina Panthers	New York Giants
+Sun Sep 18	1:00 PM	Indianapolis Colts	Jacksonville Jaguars
+Sun Sep 18	1:00 PM	Miami Dolphins	Baltimore Ravens
+Sun Sep 18	1:00 PM	New England Patriots	Pittsburgh Steelers
+Sun Sep 18	1:00 PM	New York Jets	Cleveland Browns
+Sun Sep 18	1:00 PM	Tampa Bay Buccaneers	New Orleans Saints
+Sun Sep 18	1:00 PM	Washington Commanders	Detroit Lions
+Sun Sep 18	4:05 PM	Atlanta Falcons	Los Angeles Rams
+Sun Sep 18	4:05 PM	Seattle Seahawks	San Francisco 49ers
+Sun Sep 18	4:25 PM	Arizona Cardinals	Las Vegas Raiders
+Sun Sep 18	4:25 PM	Cincinnati Bengals	Dallas Cowboys
+Sun Sep 18	4:25 PM	Houston Texans	Denver Broncos
+Sun Sep 18	8:20 PM	Chicago Bears	Green Bay Packers
+Mon Sep 19	7:15 PM	Tennessee Titans	Buffalo Bills
+Mon Sep 19	8:30 PM	Minnesota Vikings	Philadelphia Eagles
+Week 3
+Date	Time (ET)	Away Team	Home Team
+Thu Sep 22	8:15 PM	Pittsburgh Steelers	Cleveland Browns
+Sun Sep 25	1:00 PM	Baltimore Ravens	New England Patriots
+Sun Sep 25	1:00 PM	Buffalo Bills	Miami Dolphins
+Sun Sep 25	1:00 PM	Cincinnati Bengals	New York Jets
+Sun Sep 25	1:00 PM	Detroit Lions	Minnesota Vikings
+Sun Sep 25	1:00 PM	Houston Texans	Chicago Bears
+Sun Sep 25	1:00 PM	Kansas City Chiefs	Indianapolis Colts
+Sun Sep 25	1:00 PM	Las Vegas Raiders	Tennessee Titans
+Sun Sep 25	1:00 PM	New Orleans Saints	Carolina Panthers
+Sun Sep 25	1:00 PM	Philadelphia Eagles	Washington Commanders
+Sun Sep 25	4:05 PM	Jacksonville Jaguars	Los Angeles Chargers
+Sun Sep 25	4:25 PM	Atlanta Falcons	Seattle Seahawks
+Sun Sep 25	4:25 PM	Green Bay Packers	Tampa Bay Buccaneers
+Sun Sep 25	4:25 PM	Los Angeles Rams	Arizona Cardinals
+Sun Sep 25	8:20 PM	San Francisco 49ers	Denver Broncos
+Mon Sep 26	8:15 PM	Dallas Cowboys	New York Giants
+Week 4
+Date	Time (ET)	Away Team	Home Team
+Thu Sep 29	8:15 PM	Miami Dolphins	Cincinnati Bengals
+Sun Oct 2	9:30 AM	Minnesota Vikings	New Orleans Saints
+Sun Oct 2	1:00 PM	Buffalo Bills	Baltimore Ravens
+Sun Oct 2	1:00 PM	Chicago Bears	New York Giants
+Sun Oct 2	1:00 PM	Cleveland Browns	Atlanta Falcons
+Sun Oct 2	1:00 PM	Jacksonville Jaguars	Philadelphia Eagles
+Sun Oct 2	1:00 PM	Los Angeles Chargers	Houston Texans
+Sun Oct 2	1:00 PM	New York Jets	Pittsburgh Steelers
+Sun Oct 2	1:00 PM	Seattle Seahawks	Detroit Lions
+Sun Oct 2	1:00 PM	Tennessee Titans	Indianapolis Colts
+Sun Oct 2	1:00 PM	Washington Commanders	Dallas Cowboys
+Sun Oct 2	4:05 PM	Arizona Cardinals	Carolina Panthers
+Sun Oct 2	4:25 PM	Denver Broncos	Las Vegas Raiders
+Sun Oct 2	4:25 PM	New England Patriots	Green Bay Packers
+Sun Oct 2	8:20 PM	Kansas City Chiefs	Tampa Bay Buccaneers
+Mon Oct 3	8:15 PM	Los Angeles Rams	San Francisco 49ers
+Week 5
+Date	Time (ET)	Away Team	Home Team
+Thu Oct 6	8:15 PM	Indianapolis Colts	Denver Broncos
+Sun Oct 9	9:30 AM	New York Giants	Green Bay Packers
+Sun Oct 9	1:00 PM	Atlanta Falcons	Tampa Bay Buccaneers
+Sun Oct 9	1:00 PM	Chicago Bears	Minnesota Vikings
+Sun Oct 9	1:00 PM	Detroit Lions	New England Patriots
+Sun Oct 9	1:00 PM	Houston Texans	Jacksonville Jaguars
+Sun Oct 9	1:00 PM	Los Angeles Chargers	Cleveland Browns
+Sun Oct 9	1:00 PM	Miami Dolphins	New York Jets
+Sun Oct 9	1:00 PM	Pittsburgh Steelers	Buffalo Bills
+Sun Oct 9	1:00 PM	Seattle Seahawks	New Orleans Saints
+Sun Oct 9	1:00 PM	Tennessee Titans	Washington Commanders
+Sun Oct 9	4:05 PM	San Francisco 49ers	Carolina Panthers
+Sun Oct 9	4:25 PM	Dallas Cowboys	Los Angeles Rams
+Sun Oct 9	4:25 PM	Philadelphia Eagles	Arizona Cardinals
+Sun Oct 9	8:20 PM	Cincinnati Bengals	Baltimore Ravens
+Mon Oct 10	8:15 PM	Las Vegas Raiders	Kansas City Chiefs
+Week 6
+Date	Time (ET)	Away Team	Home Team
+Thu Oct 13	8:15 PM	Washington Commanders	Chicago Bears
+Sun Oct 16	1:00 PM	Baltimore Ravens	New York Giants
+Sun Oct 16	1:00 PM	Cincinnati Bengals	New Orleans Saints
+Sun Oct 16	1:00 PM	Jacksonville Jaguars	Indianapolis Colts
+Sun Oct 16	1:00 PM	Minnesota Vikings	Miami Dolphins
+Sun Oct 16	1:00 PM	New England Patriots	Cleveland Browns
+Sun Oct 16	1:00 PM	New York Jets	Green Bay Packers
+Sun Oct 16	1:00 PM	San Francisco 49ers	Atlanta Falcons
+Sun Oct 16	1:00 PM	Tampa Bay Buccaneers	Pittsburgh Steelers
+Sun Oct 16	4:05 PM	Arizona Cardinals	Seattle Seahawks
+Sun Oct 16	4:05 PM	Carolina Panthers	Los Angeles Rams
+Sun Oct 16	4:25 PM	Buffalo Bills	Kansas City Chiefs
+Sun Oct 16	8:20 PM	Dallas Cowboys	Philadelphia Eagles
+Mon Oct 17	8:15 PM	Denver Broncos	Los Angeles Chargers
+Week 7
+Date	Time (ET)	Away Team	Home Team
+Thu Oct 20	8:15 PM	New Orleans Saints	Arizona Cardinals
+Sun Oct 23	1:00 PM	Atlanta Falcons	Cincinnati Bengals
+Sun Oct 23	1:00 PM	Cleveland Browns	Baltimore Ravens
+Sun Oct 23	1:00 PM	Detroit Lions	Dallas Cowboys
+Sun Oct 23	1:00 PM	Green Bay Packers	Washington Commanders
+Sun Oct 23	1:00 PM	Indianapolis Colts	Tennessee Titans
+Sun Oct 23	1:00 PM	New York Giants	Jacksonville Jaguars
+Sun Oct 23	1:00 PM	Tampa Bay Buccaneers	Carolina Panthers
+Sun Oct 23	4:05 PM	Houston Texans	Las Vegas Raiders
+Sun Oct 23	4:05 PM	New York Jets	Denver Broncos
+Sun Oct 23	4:25 PM	Kansas City Chiefs	San Francisco 49ers
+Sun Oct 23	4:25 PM	Seattle Seahawks	Los Angeles Chargers
+Sun Oct 23	8:20 PM	Pittsburgh Steelers	Miami Dolphins
+Mon Oct 24	8:15 PM	Chicago Bears	New England Patriots
+Week 8
+Date	Time (ET)	Away Team	Home Team
+Thu Oct 27	8:15 PM	Baltimore Ravens	Tampa Bay Buccaneers
+Sun Oct 30	9:30 AM	Denver Broncos	Jacksonville Jaguars
+Sun Oct 30	1:00 PM	Arizona Cardinals	Minnesota Vikings
+Sun Oct 30	1:00 PM	Carolina Panthers	Atlanta Falcons
+Sun Oct 30	1:00 PM	Chicago Bears	Dallas Cowboys
+Sun Oct 30	1:00 PM	Las Vegas Raiders	New Orleans Saints
+Sun Oct 30	1:00 PM	Miami Dolphins	Detroit Lions
+Sun Oct 30	1:00 PM	New England Patriots	New York Jets
+Sun Oct 30	1:00 PM	Pittsburgh Steelers	Philadelphia Eagles
+Sun Oct 30	4:05 PM	Tennessee Titans	Houston Texans
+Sun Oct 30	4:25 PM	New York Giants	Seattle Seahawks
+Sun Oct 30	4:25 PM	San Francisco 49ers	Los Angeles Rams
+Sun Oct 30	4:25 PM	Washington Commanders	Indianapolis Colts
+Sun Oct 30	8:20 PM	Green Bay Packers	Buffalo Bills
+Mon Oct 31	8:15 PM	Cincinnati Bengals	Cleveland Browns
+Week 9
+Date	Time (ET)	Away Team	Home Team
+Thu Nov 3	8:15 PM	Philadelphia Eagles	Houston Texans
+Sun Nov 6	1:00 PM	Buffalo Bills	New York Jets
+Sun Nov 6	1:00 PM	Carolina Panthers	Cincinnati Bengals
+Sun Nov 6	1:00 PM	Green Bay Packers	Detroit Lions
+Sun Nov 6	1:00 PM	Indianapolis Colts	New England Patriots
+Sun Nov 6	1:00 PM	Las Vegas Raiders	Jacksonville Jaguars
+Sun Nov 6	1:00 PM	Los Angeles Chargers	Atlanta Falcons
+Sun Nov 6	1:00 PM	Miami Dolphins	Chicago Bears
+Sun Nov 6	1:00 PM	Minnesota Vikings	Washington Commanders
+Sun Nov 6	4:05 PM	Seattle Seahawks	Arizona Cardinals
+Sun Nov 6	4:25 PM	Los Angeles Rams	Tampa Bay Buccaneers
+Sun Nov 6	8:20 PM	Tennessee Titans	Kansas City Chiefs
+Mon Nov 7	8:15 PM	Baltimore Ravens	New Orleans Saints
+Week 10
+Date	Time (ET)	Away Team	Home Team
+Thu Nov 10	8:15 PM	Atlanta Falcons	Carolina Panthers
+Sun Nov 13	9:30 AM	Seattle Seahawks	Tampa Bay Buccaneers
+Sun Nov 13	1:00 PM	Cleveland Browns	Miami Dolphins
+Sun Nov 13	1:00 PM	Denver Broncos	Tennessee Titans
+Sun Nov 13	1:00 PM	Detroit Lions	Chicago Bears
+Sun Nov 13	1:00 PM	Houston Texans	New York Giants
+Sun Nov 13	1:00 PM	Jacksonville Jaguars	Kansas City Chiefs
+Sun Nov 13	1:00 PM	Minnesota Vikings	Buffalo Bills
+Sun Nov 13	1:00 PM	New Orleans Saints	Pittsburgh Steelers
+Sun Nov 13	4:05 PM	Indianapolis Colts	Las Vegas Raiders
+Sun Nov 13	4:25 PM	Arizona Cardinals	Los Angeles Rams
+Sun Nov 13	4:25 PM	Dallas Cowboys	Green Bay Packers
+Sun Nov 13	8:20 PM	Los Angeles Chargers	San Francisco 49ers
+Mon Nov 14	8:15 PM	Washington Commanders	Philadelphia Eagles
+Week 11
+Date	Time (ET)	Away Team	Home Team
+Thu Nov 17	8:15 PM	Tennessee Titans	Green Bay Packers
+Sun Nov 20	1:00 PM	Carolina Panthers	Baltimore Ravens
+Sun Nov 20	1:00 PM	Chicago Bears	Atlanta Falcons
+Sun Nov 20	1:00 PM	Cleveland Browns	Buffalo Bills
+Sun Nov 20	1:00 PM	Detroit Lions	New York Giants
+Sun Nov 20	1:00 PM	Los Angeles Rams	New Orleans Saints
+Sun Nov 20	1:00 PM	New York Jets	New England Patriots
+Sun Nov 20	1:00 PM	Philadelphia Eagles	Indianapolis Colts
+Sun Nov 20	1:00 PM	Washington Commanders	Houston Texans
+Sun Nov 20	4:05 PM	Las Vegas Raiders	Denver Broncos
+Sun Nov 20	4:25 PM	Dallas Cowboys	Minnesota Vikings
+Sun Nov 20	4:25 PM	Kansas City Chiefs	Los Angeles Chargers
+Sun Nov 20	8:20 PM	Cincinnati Bengals	Pittsburgh Steelers
+Mon Nov 21	8:00 PM	San Francisco 49ers	Arizona Cardinals
+Week 12
+Date	Time (ET)	Away Team	Home Team
+Thu Nov 24	12:30 PM	Buffalo Bills	Detroit Lions
+Thu Nov 24	4:30 PM	New York Giants	Dallas Cowboys
+Thu Nov 24	8:20 PM	New England Patriots	Minnesota Vikings
+Sun Nov 27	1:00 PM	Atlanta Falcons	Washington Commanders
+Sun Nov 27	1:00 PM	Baltimore Ravens	Jacksonville Jaguars
+Sun Nov 27	1:00 PM	Chicago Bears	New York Jets
+Sun Nov 27	1:00 PM	Cincinnati Bengals	Tennessee Titans
+Sun Nov 27	1:00 PM	Denver Broncos	Carolina Panthers
+Sun Nov 27	1:00 PM	Houston Texans	Miami Dolphins
+Sun Nov 27	1:00 PM	Tampa Bay Buccaneers	Cleveland Browns
+Sun Nov 27	4:05 PM	Las Vegas Raiders	Seattle Seahawks
+Sun Nov 27	4:05 PM	Los Angeles Chargers	Arizona Cardinals
+Sun Nov 27	4:25 PM	Los Angeles Rams	Kansas City Chiefs
+Sun Nov 27	4:25 PM	New Orleans Saints	San Francisco 49ers
+Sun Nov 27	8:20 PM	Green Bay Packers	Philadelphia Eagles
+Mon Nov 28	8:15 PM	Pittsburgh Steelers	Indianapolis Colts
+Week 13
+Date	Time (ET)	Away Team	Home Team
+Thu Dec 1	8:15 PM	Buffalo Bills	New England Patriots
+Sun Dec 4	1:00 PM	Cleveland Browns	Houston Texans
+Sun Dec 4	1:00 PM	Denver Broncos	Baltimore Ravens
+Sun Dec 4	1:00 PM	Green Bay Packers	Chicago Bears
+Sun Dec 4	1:00 PM	Jacksonville Jaguars	Detroit Lions
+Sun Dec 4	1:00 PM	New York Jets	Minnesota Vikings
+Sun Dec 4	1:00 PM	Pittsburgh Steelers	Atlanta Falcons
+Sun Dec 4	1:00 PM	Tennessee Titans	Philadelphia Eagles
+Sun Dec 4	1:00 PM	Washington Commanders	New York Giants
+Sun Dec 4	4:05 PM	Miami Dolphins	San Francisco 49ers
+Sun Dec 4	4:05 PM	Seattle Seahawks	Los Angeles Rams
+Sun Dec 4	4:25 PM	Kansas City Chiefs	Cincinnati Bengals
+Sun Dec 4	4:25 PM	Los Angeles Chargers	Las Vegas Raiders
+Sun Dec 4	8:20 PM	Indianapolis Colts	Dallas Cowboys
+Mon Dec 5	8:15 PM	New Orleans Saints	Tampa Bay Buccaneers
+Week 14
+Date	Time (ET)	Away Team	Home Team
+Thu Dec 8	8:15 PM	Las Vegas Raiders	Los Angeles Rams
+Sun Dec 11	1:00 PM	Baltimore Ravens	Pittsburgh Steelers
+Sun Dec 11	1:00 PM	Cleveland Browns	Cincinnati Bengals
+Sun Dec 11	1:00 PM	Houston Texans	Dallas Cowboys
+Sun Dec 11	1:00 PM	Jacksonville Jaguars	Tennessee Titans
+Sun Dec 11	1:00 PM	Minnesota Vikings	Detroit Lions
+Sun Dec 11	1:00 PM	New York Jets	Buffalo Bills
+Sun Dec 11	1:00 PM	Philadelphia Eagles	New York Giants
+Sun Dec 11	4:05 PM	Miami Dolphins	Los Angeles Chargers
+Sun Dec 11	4:25 PM	Carolina Panthers	Seattle Seahawks
+Sun Dec 11	4:25 PM	Tampa Bay Buccaneers	San Francisco 49ers
+Sun Dec 11	8:20 PM	Kansas City Chiefs	Denver Broncos
+Mon Dec 12	8:15 PM	New England Patriots	Arizona Cardinals
+Week 15
+Date	Time (ET)	Away Team	Home Team
+Thu Dec 15	8:15 PM	San Francisco 49ers	Seattle Seahawks
+Sun Dec 18	1:00 PM	Atlanta Falcons	New Orleans Saints
+Sun Dec 18	1:00 PM	Baltimore Ravens	Cleveland Browns
+Sun Dec 18	1:00 PM	Dallas Cowboys	Jacksonville Jaguars
+Sun Dec 18	1:00 PM	Detroit Lions	New York Jets
+Sun Dec 18	1:00 PM	Indianapolis Colts	Minnesota Vikings
+Sun Dec 18	1:00 PM	Kansas City Chiefs	Houston Texans
+Sun Dec 18	1:00 PM	Miami Dolphins	Buffalo Bills
+Sun Dec 18	1:00 PM	New York Giants	Washington Commanders
+Sun Dec 18	1:00 PM	Philadelphia Eagles	Chicago Bears
+Sun Dec 18	1:00 PM	Pittsburgh Steelers	Carolina Panthers
+Sun Dec 18	4:05 PM	Arizona Cardinals	Denver Broncos
+Sun Dec 18	4:25 PM	Cincinnati Bengals	Tampa Bay Buccaneers
+Sun Dec 18	4:25 PM	Tennessee Titans	Los Angeles Chargers
+Sun Dec 18	8:20 PM	New England Patriots	Las Vegas Raiders
+Mon Dec 19	8:15 PM	Los Angeles Rams	Green Bay Packers
+Week 16
+Date	Time (ET)	Away Team	Home Team
+Thu Dec 22	8:15 PM	Jacksonville Jaguars	New York Jets
+Sat Dec 24	1:00 PM	Atlanta Falcons	Baltimore Ravens
+Sat Dec 24	1:00 PM	Buffalo Bills	Chicago Bears
+Sat Dec 24	1:00 PM	Cincinnati Bengals	New England Patriots
+Sat Dec 24	1:00 PM	Detroit Lions	Carolina Panthers
+Sat Dec 24	1:00 PM	Houston Texans	Tennessee Titans
+Sat Dec 24	1:00 PM	New Orleans Saints	Cleveland Browns
+Sat Dec 24	1:00 PM	New York Giants	Minnesota Vikings
+Sat Dec 24	1:00 PM	Seattle Seahawks	Kansas City Chiefs
+Sat Dec 24	4:05 PM	Washington Commanders	San Francisco 49ers
+Sat Dec 24	4:25 PM	Philadelphia Eagles	Dallas Cowboys
+Sat Dec 24	8:15 PM	Las Vegas Raiders	Pittsburgh Steelers
+Sun Dec 25	1:00 PM	Green Bay Packers	Miami Dolphins
+Sun Dec 25	4:30 PM	Denver Broncos	Los Angeles Rams
+Sun Dec 25	8:20 PM	Tampa Bay Buccaneers	Arizona Cardinals
+Mon Dec 26	8:15 PM	Los Angeles Chargers	Indianapolis Colts
+Week 17
+Date	Time (ET)	Away Team	Home Team
+Thu Dec 29	8:15 PM	Dallas Cowboys	Tennessee Titans
+Sat Jan 1	1:00 PM	Arizona Cardinals	Atlanta Falcons
+Sat Jan 1	1:00 PM	Carolina Panthers	Tampa Bay Buccaneers
+Sat Jan 1	1:00 PM	Chicago Bears	Detroit Lions
+Sat Jan 1	1:00 PM	Cleveland Browns	Washington Commanders
+Sat Jan 1	1:00 PM	Denver Broncos	Kansas City Chiefs
+Sat Jan 1	1:00 PM	Indianapolis Colts	New York Giants
+Sat Jan 1	1:00 PM	Jacksonville Jaguars	Houston Texans
+Sat Jan 1	1:00 PM	Miami Dolphins	New England Patriots
+Sat Jan 1	1:00 PM	New Orleans Saints	Philadelphia Eagles
+Sat Jan 1	1:00 PM	Pittsburgh Steelers	Baltimore Ravens
+Sat Jan 1	4:05 PM	New York Jets	Seattle Seahawks
+Sat Jan 1	4:05 PM	San Francisco 49ers	Las Vegas Raiders
+Sat Jan 1	4:25 PM	Minnesota Vikings	Green Bay Packers
+Sat Jan 1	8:20 PM	Los Angeles Rams	Los Angeles Chargers
+Sun Jan 2	8:30 PM	Buffalo Bills	Cincinnati Bengals
+Week 18
+Date	Time (ET)	Away Team	Home Team
+Sat Jan 8	1:00 PM	Arizona Cardinals	San Francisco 49ers
+Sat Jan 8	1:00 PM	Baltimore Ravens	Cincinnati Bengals
+Sat Jan 8	1:00 PM	Carolina Panthers	New Orleans Saints
+Sat Jan 8	1:00 PM	Cleveland Browns	Pittsburgh Steelers
+Sat Jan 8	1:00 PM	Dallas Cowboys	Washington Commanders
+Sat Jan 8	1:00 PM	Detroit Lions	Green Bay Packers
+Sat Jan 8	1:00 PM	Houston Texans	Indianapolis Colts
+Sat Jan 8	1:00 PM	Kansas City Chiefs	Las Vegas Raiders
+Sat Jan 8	1:00 PM	Los Angeles Chargers	Denver Broncos
+Sat Jan 8	1:00 PM	Los Angeles Rams	Seattle Seahawks
+Sat Jan 8	1:00 PM	Minnesota Vikings	Chicago Bears
+Sat Jan 8	1:00 PM	New England Patriots	Buffalo Bills
+Sat Jan 8	1:00 PM	New York Giants	Philadelphia Eagles
+Sat Jan 8	1:00 PM	New York Jets	Miami Dolphins
+Sat Jan 8	1:00 PM	Tampa Bay Buccaneers	Atlanta Falcons
+Sat Jan 8	1:00 PM	Tennessee Titans	Jacksonville Jaguars
